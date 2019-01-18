@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:more="http://schamas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="10dp"
+    android:background="@color/white" >
+
+    <ImageView
+        android:id="@+id/iguide_district_image"
+        android:layout_width="match_parent"
+        android:layout_height="225dp"
+        android:contentDescription="@string/app_name" 
+        android:src="@drawable/wait_big"/>
+
+    <ImageView 
+        android:id="@+id/iguide_district_offline_download"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:layout_alignBottom="@id/iguide_district_image"
+        android:layout_alignRight="@id/iguide_district_image"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/list_xq_download"
+          android:padding="10dp" 
+        />
+    
+    <com.itg.ui.view.NumberCircleBar
+        android:id="@+id/iguide_district_down_circle"
+        style="@style/NumberCircleProgressBar_Default"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/iguide_district_image"
+        android:layout_alignRight="@id/iguide_district_image"
+        android:padding="10dp" 
+        android:visibility="invisible"
+        />
+
+    <LinearLayout
+        android:id="@+id/iguide_info_pannel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iguide_district_image"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/iguide_district_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@drawable/list_xq_dh_left_hv"
+            android:gravity="center"
+            android:text="@string/district_des"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/iguide_district_ticket"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@drawable/list_xq_dh"
+            android:gravity="center"
+            android:text="@string/district_ticket"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/iguide_district_traffic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@drawable/list_xq_dh"
+            android:gravity="center"
+            android:text="@string/district_traffic"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/iguide_district_innerline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@drawable/list_xq_dh_right"
+            android:gravity="center"
+            android:text="@string/district_innerline"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/iguide_description_icon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iguide_info_pannel"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp" >
+
+        <ImageView
+            android:id="@+id/description_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/list_xq_jj" />
+
+        <TextView
+            android:id="@+id/iguide_district_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/description_icon"
+            android:text="简介"
+            android:textColor="#59bdfb"
+            android:textSize="18sp" />
+    </RelativeLayout>
+    <!--
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+    -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ededed" />
+
+    <RelativeLayout 
+        android:id="@+id/iguide_stuff_content"
+                android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+                android:layout_below="@id/iguide_description_icon"
+        >
+    <TextView
+        android:id="@+id/iguide_district_stuff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:ellipsize="end"
+        android:lines="3" 
+       android:visibility="gone"
+        />
+    <WebView
+         android:id="@+id/iguide_district_stuff_wv"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+         android:layout_marginLeft="10dp"
+         android:scrollbars="none"
+         android:visibility="gone"
+         />
+</RelativeLayout>
+    <!--
+             <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/slide_bar"
+            />
+    -->
+    <!-- </RelativeLayout> -->
+    <!--
+         <TextView
+        android:id="@+id/iguide_txt_control"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:background="@drawable/iguide_text_border"
+        android:paddingBottom="3dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="3dp"
+        android:textColor="#f81a00"
+        android:textSize="18sp" />
+    -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iguide_stuff_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp" >
+
+        <ImageView
+            android:id="@+id/description_icons"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/list_xq_jq" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/description_icons"
+            android:text="所属景点"
+            android:textColor="#59bdfb"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ededed" />
+
+</RelativeLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <include 
+        android:id="@+id/fankui_include"
+        layout="@layout/iguide_title"/>
+    <TextView 
+        android:id="@+id/fankui_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/fankui_include"
+        android:textSize="18sp"
+        android:layout_marginTop="22dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:text="请您在此输入建议:"/>
+	<EditText 
+	    android:id="@+id/iguide_fankui_edittext"
+	    android:layout_width="318dp"
+	    android:layout_height="150dp"
+	    android:layout_below="@+id/fankui_text"
+	    android:background="@drawable/iguide_edit_border"
+	    android:layout_centerHorizontal="true"
+	    android:hint="您的建议,将是我们不断进步,成长的见证!"
+	    />
+	<Button 
+	    android:id="@+id/iguide_fankui_button"
+	    android:layout_width="318dp"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/iguide_fankui_edittext"
+	    android:layout_marginTop="15dp"
+	    android:text="提   交"
+	    android:textSize="18sp"
+	    android:layout_centerHorizontal="true"
+	    android:textColor="#ffffff"
+	    android:background="@drawable/menu_fankui_an"/>
+</RelativeLayout>

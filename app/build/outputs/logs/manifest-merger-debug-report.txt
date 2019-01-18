@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:2:1-113:12
+	package
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.1] /Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:11:5-12:23
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:15:22-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:18:5-19:23
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:18:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:21:5-22:23
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:24:5-25:23
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:24:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:27:5-28:23
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:27:22-72
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:29:5-71
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:29:22-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:33:2-74
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:33:19-72
+action#android.location.PROVIDERS_CHANGED
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:36:5-65
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:36:13-62
+application
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:39:5-109:19
+MERGED from [com.android.support:support-v4:22.2.1] /Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:42:9-41
+	android:allowBackup
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:40:9-35
+	android:icon
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:41:9-38
+	android:theme
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:44:9-62
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:43:9-50
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:45:9-47:56
+	android:value
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:47:13-53
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:46:13-52
+activity#com.itg.ui.activity.AnimationActivity
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:49:9-57:20
+	android:label
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:51:13-45
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:50:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:52:13-56:29
+action#android.intent.action.MAIN
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:55:27-74
+service#com.baidu.location.f
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:59:9-63:19
+	android:enabled
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:61:13-35
+	android:process
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:62:13-35
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:60:13-48
+service#com.itg.ui.view.FloatWindowService
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:64:3-65:17
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:64:12-61
+service#com.itg.httpRequest.DownloadService
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:66:3-71:13
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:66:12-62
+intent-filter#com.itg.download
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:67:4-69:20
+action#com.itg.download
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:68:8-50
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:68:16-47
+receiver#com.itg.broadcastreceiver.NetWorkBroadCastReceiver
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:72:9-76:20
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:72:19-84
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:73:13-75:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:74:17-79
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:74:25-76
+receiver#com.itg.broadcastreceiver.GPSChangeReceiver
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:77:9-83:20
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:77:19-77
+intent-filter#android.intent.category.DEFAULT+android.location.PROVIDERS_CHANGED
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:78:13-82:29
+category#android.intent.category.DEFAULT
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:81:17-76
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:81:27-73
+activity#com.itg.ui.activity.BaseActivity
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:85:9-69
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:85:19-66
+activity#com.itg.ui.activity.HomeActivity
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:86:9-69
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:86:19-66
+activity#com.itg.ui.activity.FankuiActivity
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:87:9-71
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:87:19-68
+activity#com.itg.ui.activity.LoginActivity
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:88:9-70
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:88:19-67
+activity#com.itg.ui.activity.SearchActivity
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:89:9-91:56
+	android:windowSoftInputMode
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:91:11-53
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:90:13-62
+activity#com.itg.ui.activity.Recogintion
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:92:9-93:20
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:92:19-65
+activity#com.itg.ui.activity.SettingActivity
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:94:9-72
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:94:19-69
+activity#com.itg.ui.activity.CollectActivity
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:95:9-72
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:95:19-69
+activity#com.itg.ui.activity.RecordActivity
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:96:9-71
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:96:19-68
+activity#com.itg.ui.activity.AboutWeActivity
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:97:9-71
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:97:19-69
+activity#com.itg.ui.activity.MessageActivity
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:98:9-72
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:98:19-69
+activity#com.itg.ui.activity.SurveyActivity
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:99:9-71
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:99:19-68
+activity#com.itg.ui.activity.MapWidgetActivity
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:100:9-73
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:100:19-71
+activity#com.itg.ui.activity.DistrictInfoActivity
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:101:9-77
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:101:19-74
+activity#com.itg.ui.activity.DistrictIntroduce
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:102:9-73
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:102:19-71
+activity#com.itg.ui.activity.HotpotInfoActivity
+ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:103:9-74
+	android:name
+		ADDED from /Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/AndroidManifest.xml:103:19-72

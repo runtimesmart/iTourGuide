@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="map_popup_line" >#cccccc</color>
+    <color name="map_pupup_title">#38afe7</color>
+    <color name="map_popup_tip">#3366cc</color>
+    <color name="actionbar_background">#38afe7</color>
+    <color name="actionbar_background_pressed">#48bbf1</color>
+    <color name="search_cancel_text">#ffffff</color>
+    <color name="search_result_bg">#ffffff</color>
+    <color name="search_cancel_text_pressed">#e0e0e0</color>
+    <color name="background_select">#d3d3d3</color>
+	<color name="light_grey">#f1f2f2</color>
+    <!-- title 返回字体颜色 -->
+    <color name="title_back">#997048</color>
+    <color name="background_text">#55a6ff</color>
+    <color name="background_texttwo">#f0eeee</color>
+    <color name="search_result_title_color">#767676</color>
+    <color name="search_result_selected_item">#f1f1f1</color>
+    
+    <color name="background">#FF000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFFE400</color>
+    <color name="pink_red">#F63E2A</color>
+    <color name="red">#FF0000</color>
+    <color name="bulegray">#f0f0f0</color>
+    <color name="gray">#828282</color>
+    <color name="wait_circle">#dcdcdc</color>
+    <color name="pull_text_color">#b0afaf</color>
+    <color name="graylight">#cccccc</color>
+    <color name="orange">#FF6600</color>
+    <color name="orange_light">#fdaa0b</color>
+    <color name="gold">#ffd700</color>
+    <color name="transparent">#00000000</color>
+    <color name="semitransparent">#90000000</color>
+    <color name="nearly_hard">#97000000</color>
+    <color name="font_focus">#D7F679</color>
+    <color name="gold_player">#F7F466</color>
+    <color name="whitetran">#87FFFFFF</color>
+    <color name="divider_line">#FF575757</color>
+    <color name="divider_line_header">#dfdfdf</color>
+    <color name="listview_item_normal">#ffffff</color>
+    <color name="listview_item_pressed">#f8f8f8</color>
+    <color name="hotpot_map_bgcolor">#f2f2f2</color>
+    
+    <color name="message_checked">#90918f</color>
+    <color name="message_no_check">#323232</color>
+    
+    <color name="stick_color_bg">#e2e2e2</color>
+    
+    <color name="iguide_list_bg">#efefef</color>
+    
+    <color name="reveal_color">#1b000000</color>
+       <color name="pink">#FF6666</color>
+</resources>

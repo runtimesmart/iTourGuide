@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/iguide_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:background="@drawable/menu_bj" >
+
+        <com.itg.ui.view.CircularImage
+            android:id="@+id/iguide_sliding_touxiang"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="25dp"
+            android:src="@drawable/menu_touxiang" />
+        
+        <TextView
+            android:id="@+id/iguide_sliding_usernames"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="18dp"
+            android:layout_toRightOf="@id/iguide_sliding_touxiang"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+    </RelativeLayout>
+    
+    <RelativeLayout
+        android:id="@+id/iguide_noLogin"
+        android:layout_width="wrap_content"
+        android:visibility="gone"
+        android:layout_height="wrap_content"
+        android:background="@drawable/menu_bj" >
+
+        <ImageView
+            android:id="@+id/iguide_sliding_login_touxiang"
+            android:layout_width="wrap_content"
+        	android:layout_marginTop="30dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="25dp"
+            android:src="@drawable/menu_touxiang" />
+        
+        <TextView 
+            android:id="@+id/iguide_sliding_login_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_no"
+            android:layout_below="@id/iguide_sliding_login_touxiang"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            android:text="登  录"
+            android:textSize="17sp"
+            android:gravity="center"
+            android:textColor="#ffffff"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" 
+        >
+
+        <RelativeLayout
+            android:id="@+id/iguide_sliding_geren"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/background_select" >
+
+            <ImageView
+                android:id="@+id/iguide_sliding_geren_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="17dp"
+                android:src="@drawable/menu_denglu" />
+
+            <TextView
+                android:id="@+id/iguide_sliding_geren_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="12dp"
+                android:layout_toRightOf="@id/iguide_sliding_geren_image"
+                android:text="个人信息"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/iguide_sliding_geren_image2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="17dp"
+                android:src="@drawable/menu_jt" />
+        </RelativeLayout>
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#d9d9d9" />
+        
+        <RelativeLayout
+            android:id="@+id/iguide_sliding_xiaoxi"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/background_select" >
+
+            <ImageView
+                android:id="@+id/iguide_sliding_xiaoxi_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="17dp"
+                android:src="@drawable/menu_xiaoxi" />
+
+            <TextView
+                android:id="@+id/iguide_sliding_xiaoxi_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="12dp"
+                android:layout_toRightOf="@id/iguide_sliding_xiaoxi_image"
+                android:text="消息中心"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/iguide_sliding_xiaoxi_image2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="17dp"
+                android:src="@drawable/menu_jt" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#d9d9d9" />
+
+        <RelativeLayout
+            android:id="@+id/iguide_sliding_yijian"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/background_select" >
+
+            <ImageView
+                android:id="@+id/iguide_sliding_yijian_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="17dp"
+                android:src="@drawable/menu_fankui" />
+
+            <TextView
+                android:id="@+id/iguide_sliding_yijian_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="12dp"
+                android:layout_toRightOf="@id/iguide_sliding_yijian_image"
+                android:text="意见反馈"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/iguide_sliding_yijian_image2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="17dp"
+                android:src="@drawable/menu_jt" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#d9d9d9" />
+
+        <RelativeLayout
+            android:id="@+id/iguide_sliding_guanyu"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/background_select" >
+
+            <ImageView
+                android:id="@+id/iguide_sliding_guanyu_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="17dp"
+                android:src="@drawable/menu_guyu" />
+
+            <TextView
+                android:id="@+id/iguide_sliding_guanyu_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="12dp"
+                android:layout_toRightOf="@id/iguide_sliding_guanyu_image"
+                android:text="关于我们"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/iguide_sliding_guanyu_image2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="17dp"
+                android:src="@drawable/menu_jt" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#d9d9d9" />
+        
+        <RelativeLayout
+            android:id="@+id/iguide_sliding_gengxin"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/background_select" >
+
+            <ImageView
+                android:id="@+id/iguide_sliding_gengxin_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="17dp"
+                android:src="@drawable/menu_sx" />
+
+            <TextView
+                android:id="@+id/iguide_sliding_gengxin_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="12dp"
+                android:layout_toRightOf="@id/iguide_sliding_gengxin_image"
+                android:text="版本更新"
+                android:textSize="17sp" />
+			
+            <ImageView
+                android:id="@+id/iguide_sliding_gengxin_image2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="17dp"
+                android:src="@drawable/menu_jt" />
+            
+            <TextView 
+                android:id="@+id/iguide_sliding_gengxin_version"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@id/iguide_sliding_gengxin_image2"
+                android:layout_marginRight="5dp"
+                android:layout_centerVertical="true"
+                />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#d9d9d9" />
+
+        <RelativeLayout
+            android:id="@+id/iguide_sliding_login"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/background_select" >
+
+            <ImageView
+                android:id="@+id/iguide_sliding_login_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="17dp"
+                android:src="@drawable/menu_tuichu" />
+
+            <TextView
+                android:id="@+id/iguide_sliding_login_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="12dp"
+                android:layout_toRightOf="@id/iguide_sliding_login_image"
+                android:text="退出登录"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/iguide_sliding_login_image2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="17dp"
+                android:src="@drawable/menu_jt" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

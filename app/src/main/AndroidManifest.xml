@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.itg.iguide"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 这个权限用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" >
+    </uses-permission>
+    <!-- 这个权限用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" >
+    </uses-permission>
+    <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" >
+    </uses-permission>
+    <!-- 用于读取手机当前的状态 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!-- 用来获取手机唯一标识 -->
+	<uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+	<!-- 悬浮窗 -->
+	<uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+
+	
+    <action android:name="android.location.PROVIDERS_CHANGED" />
+    
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:name="com.itg.util.MyApplication"
+        android:theme="@android:style/Theme.Light.NoTitleBar" >
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="YXjXjihMckFtF9kmhA74QzYk" />
+
+        <activity
+            android:name="com.itg.ui.activity.AnimationActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- baiduservice -->
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":map" >
+        </service>
+		<service android:name="com.itg.ui.view.FloatWindowService" >
+		    </service>
+		<service android:name="com.itg.httpRequest.DownloadService">
+			<intent-filter>
+			    <action android:name="com.itg.download" />
+			</intent-filter>
+		    
+		</service>
+        <receiver android:name="com.itg.broadcastreceiver.NetWorkBroadCastReceiver" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.itg.broadcastreceiver.GPSChangeReceiver" >
+            <intent-filter>
+                <action android:name="android.location.PROVIDERS_CHANGED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name="com.itg.ui.activity.BaseActivity" />
+        <activity android:name="com.itg.ui.activity.HomeActivity" />
+        <activity android:name="com.itg.ui.activity.FankuiActivity" />
+        <activity android:name="com.itg.ui.activity.LoginActivity" />
+        <activity
+            android:name="com.itg.ui.activity.SearchActivity"
+          android:windowSoftInputMode="adjustResize" />
+        <activity android:name="com.itg.ui.activity.Recogintion" >
+        </activity>
+        <activity android:name="com.itg.ui.activity.SettingActivity" />
+        <activity android:name="com.itg.ui.activity.CollectActivity" />
+        <activity android:name="com.itg.ui.activity.RecordActivity" />
+        <activity android:name="com.itg.ui.activity.AboutWeActivity"/>
+        <activity android:name="com.itg.ui.activity.MessageActivity" />
+        <activity android:name="com.itg.ui.activity.SurveyActivity" />
+        <activity android:name="com.itg.ui.activity.MapWidgetActivity"/>
+        <activity android:name="com.itg.ui.activity.DistrictInfoActivity" />
+        <activity android:name="com.itg.ui.activity.DistrictIntroduce"/>
+        <activity android:name="com.itg.ui.activity.HotpotInfoActivity"/>
+        <!--
+<meta-data android:name="UMENG_APPKEY" android:value="55cd85d4e0f55ac9a700681e"/>
+<activity android:configChanges="orientation|keyboard" android:launchMode="singleTask" android:name="com.umeng.socialize.view.ShareActivity" android:noHistory="true" android:theme="@style/Theme.UMDialog" android:windowSoftInputMode="stateVisible|adjustResize"/>
+<activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:name=".wxapi.WXEntryActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        -->
+    </application>
+
+    <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/> -->
+
+</manifest>

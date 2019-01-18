@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="app_name">i导游</string>
+    <string name="home_list">景区列表</string>
+    <string name="home_rim">周边服务</string>
+    <string name="network_nonet_tip">无可用网络,请检查网络或重启手机</string>
+    <string name="network_wifi_tip">已连接WIFI</string>
+    <string name="network_mobile_tip">已连接蜂窝网</string>
+    <string name="network_unknow_tip">未知网络</string>
+    <string name="listview_release_refresh">松开刷新</string>
+    <string name="listview_load_more">加载中</string>
+     <string name="listview_load_over">加载完毕</string>
+    <string name="listview_refreshing">正在刷新</string>
+    <string name="listview_more">加载更多</string>
+    <string name="exit_tip">再按一次退出</string>
+    <string name="map_setting">设置</string>
+    <string name="map_open_GPS">GPS</string>
+    <string name="map_auto_audioplay">自动讲解</string>
+    <string name="search_edittext_hittext">输入景区名称</string>
+    <string name="search_cancel">取消</string>
+    <!-- 景区详细 -->
+    <string  name="district_des">简介</string>
+     <string  name="district_ticket">门票</string>
+      <string  name="district_traffic">交通</string>
+       <string  name="district_innerline">路线</string>
+     <!-- 语言 -->
+    <string-array name="language_entries">
+        <item>普通话</item>
+        <item>粤语</item>
+        <item>河南话</item>
+        <item>英语</item>
+    </string-array>
+    <string-array name="language_values">
+        <item>mandarin</item>
+        <item>cantonese</item>
+        <item>henanese</item>
+        <item>en_us</item>
+    </string-array>
+</resources>

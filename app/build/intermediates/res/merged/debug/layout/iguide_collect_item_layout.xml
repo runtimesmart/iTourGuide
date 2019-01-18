@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="90dp"
+    android:orientation="horizontal"
+    android:layout_marginTop="1dp"
+    >
+
+    <RelativeLayout
+        android:id="@+id/iguide_collect_rel"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="#ffffff" >
+
+        <ImageView
+            android:id="@+id/iguide_collect_image"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="22dp"
+            android:src="@drawable/menu_all" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="12dp"
+            android:layout_toRightOf="@id/iguide_collect_image"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/iguide_collect_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/iguide_collect_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/iguide_collect_date"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="5dp"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/iguide_collect_textbutton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/menu_shoucang_biao"
+                android:padding="4dp"
+                android:text="打开"
+                android:textColor="#3ea0e1" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+<TextView  
+        android:id="@+id/delete"  
+        android:layout_width="80dp"  
+        android:layout_height="match_parent"  
+        android:background="#FFFF0000"  
+        android:gravity="center"  
+        android:paddingLeft="20dp"  
+        android:textColor="@android:color/white"  
+        android:paddingRight="20dp"  
+        android:text="删除" />
+
+</LinearLayout>

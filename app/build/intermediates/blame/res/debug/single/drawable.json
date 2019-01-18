@@ -1,0 +1,874 @@
+[
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_search_icon.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shareboard_item_background.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_round_corner_pop.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_round_corner_pop.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_control_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_control_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_login_pressed.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_google.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_google.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_tx_on.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_map_play_focus_bg.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_map_play_focus_bg.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wxcircle_gray.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_text_border.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_text_border.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_back_selected.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wxcircle.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_control_left_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_control_left_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_right_normal.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_login.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_login_normal.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sina_off.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_follow_on.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_list_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_list_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sidebar_normal.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_renren_off.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_left_pressed.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_follow_on.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/round_corner_pop.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/round_corner_pop.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_follow_off.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_share_transparent_corner.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_search_result_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_search_result_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_control_left_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_control_left_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_button.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/map_location_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/map_location_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_grey.9.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_back_normal.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_back_bt_normal.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_twitter.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_google.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_google.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/hide_show_pop.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/hide_show_pop.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_follow_check.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_back_bt_selected.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_blue.9.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qzone_on.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wechat_gray.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_selected.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_hide_show_pop.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_hide_show_pop.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_back_bt_selected.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_login.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qq_on.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/background_select.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/background_select.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_grey.9.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_light_bar_bg.9.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_right_normal.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_follow_check.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_map_location_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_map_location_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_back.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_back_bt.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_left_normal.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_map_location_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_map_location_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qzone_on.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/search_txt_cancel_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/search_txt_cancel_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_light_grey_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_light_grey_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_left_pressed.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_back.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/map_setting_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/map_setting_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_share_transparent_corner.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_control_right_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_control_right_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_nav_bar_bg.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_oauth_check_off.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_oauth_check_on.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wechat_gray.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_search_voice_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_search_voice_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sidebar_selected.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_right_bt.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_district_gridview_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_district_gridview_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_default_avatar.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_red.9.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wechat.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_left_normal.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_blue.9.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_share_to_button.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_right_pressed.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_text_border.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_text_border.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_right_bt_normal.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_button_left.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_listitem_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_listitem_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_white_blue.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_douban_off.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_tx_off.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_login_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_login_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wechat.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_right_bt_selected.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/round_click.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/round_click.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_window_shadow_pad.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_renren_on.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_normal.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_solid_grey.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_red_blue.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_douban_off.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_map_play_bg.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_map_play_bg.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/edit_border.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/edit_border.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_button_right.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qq_on.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_ic.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_login_normal.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/search_txt_cancel_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/search_txt_cancel_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_search_result_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_search_result_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/hide_show_pop.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/hide_show_pop.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_back_bt.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_light_bar_bg.9.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_red.9.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_welcome_btn_bg.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_welcome_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_tx_off.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_red_blue.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sidebar_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_map_play_focus_bg.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_map_play_focus_bg.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_x_button.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/background_select.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/background_select.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_button_left.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_off.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_control_dot_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_control_dot_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sidebar_selected.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_button_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_button_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_oauth_check_off.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_experience_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_experience_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_map_setting_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_map_setting_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_off.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_grey_blue.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/map_setting_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/map_setting_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_solid_black.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_window_shadow_pad.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_oauth_check.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/search_voice_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/search_voice_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_renren_off.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_light_grey_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_light_grey_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/round_corner_pop.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/round_corner_pop.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_hide_show_pop.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_hide_show_pop.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_map_play_bg.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_map_play_bg.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_button_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_button_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_back_selected.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_button_right.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_white_blue.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/backgroung_button.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/backgroung_button.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_login_pressed.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_twitter.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sidebar_normal.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_bind_bg.9.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_edit_border.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_edit_border.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_share_to_button.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_douban_on.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/edit_border.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/edit_border.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_refersh.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_white.9.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_edit_border.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_edit_border.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/search_voice_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/search_voice_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_search_txt_cancel_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_search_txt_cancel_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qzone_off.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_renren_on.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qq_off.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sidebar_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_search_txt_cancel_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_search_txt_cancel_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_on.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_search_voice_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_search_voice_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_list_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_list_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_voice_seekbar.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_voice_seekbar.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sina_on.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_refersh.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_solid_black.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_fetch_image.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_on.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_fetch_image.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sina_on.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_facebook.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_default_avatar.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_bind_bg.9.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/btn_innew.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/btn_innew.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/btn_innew.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/btn_innew.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_facebook.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_actionbar_bg_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_actionbar_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_grey_blue.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_normal.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_selected.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_x_button.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_action_back_normal.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_experience_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_experience_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shape_solid_grey.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_welcome_btn_bg.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_welcome_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_right_bt.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qzone_off.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wxcircle.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_right_bt_normal.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_round_corner_pop.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_round_corner_pop.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wxcircle_gray.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_button_white.9.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/map_location_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/map_location_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_at_button.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_oauth_check.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_right_bt_selected.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sina_off.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_control_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_control_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_search_icon.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qq_off.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_control_right_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_control_right_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_oauth_check_on.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_back_bt_normal.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_actionbar_bg_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_actionbar_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_shareboard_item_background.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_control_dot_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_control_dot_selector.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_tx_on.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_douban_on.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_listitem_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_listitem_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_follow_off.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_title_tab_right_pressed.png",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_login_selector.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_login_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/round_click.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/round_click.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_nav_bar_bg.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_voice_seekbar.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_voice_seekbar.xml"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/backgroung_button.xml",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/backgroung_button.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_district_gridview_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_district_gridview_selector.xml"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_location_ic.png",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/drawable/iguide_map_setting_selector.xml",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/drawable/iguide_map_setting_selector.xml"
+    }
+]

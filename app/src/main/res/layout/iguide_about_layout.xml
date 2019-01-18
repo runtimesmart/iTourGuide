@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <include 
+        android:id="@+id/about_include"
+        layout="@layout/iguide_title"/>
+    
+    <ImageView
+        android:id="@+id/iguide_about_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/gywm_logo"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/about_include"
+        android:layout_marginTop="33dp"/>
+    
+    <TextView 
+        android:id="@+id/iguide_about_text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="13dp"
+        android:layout_below="@id/iguide_about_logo"
+        android:layout_centerHorizontal="true"
+        android:textColor="#1c8add"
+        android:text="I导游"
+        />
+    <TextView 
+        android:id="@+id/iguide_about_text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iguide_about_text1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:textColor="#1c8add"
+        android:text="2013年北京无线新天地公司   版权所有"
+        />
+    <LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/iguide_about_text2"
+        android:layout_marginTop="40dp">
+        <ImageView 
+            android:id="@+id/iguide_about_image1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/gywm_gsjj"/>
+        <ImageView 
+            android:id="@+id/iguide_about_image2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/gywm_xy"/>
+    </LinearLayout>
+
+</RelativeLayout>

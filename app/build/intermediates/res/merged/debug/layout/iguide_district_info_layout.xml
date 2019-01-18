@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/iguide_district_hotpot_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/iguide_title"
+        layout="@layout/iguide_title_three"
+        android:background="#c0000000" />
+  <com.itg.ui.view.GridViewWithHeaderAndFooter
+      android:id="@+id/iguide_district_hotpot_info"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:verticalSpacing="5dp"
+      android:stretchMode="columnWidth"
+      android:numColumns="3"
+      android:listSelector="@null"
+      >
+      
+  </com.itg.ui.view.GridViewWithHeaderAndFooter>
+
+</LinearLayout>

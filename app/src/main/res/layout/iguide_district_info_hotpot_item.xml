@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+    android:background="@drawable/iguide_district_gridview_selector"
+    >
+
+    <ImageView
+        android:id="@+id/iguide_hotpot_image"
+        android:layout_width="100dp"
+        android:layout_height="74dp"
+        android:scaleType="fitXY"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/wait_xiao" />
+
+    <TextView
+        android:id="@+id/iguide_hotpot_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="8dp"
+        android:maxEms="4"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:layout_below="@id/iguide_hotpot_image" />
+
+    <ImageView
+        android:id="@+id/iguide_hotpot_voice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@id/iguide_hotpot_image"
+		android:paddingRight="5dp"
+        android:contentDescription="@string/app_name" />
+
+</RelativeLayout>

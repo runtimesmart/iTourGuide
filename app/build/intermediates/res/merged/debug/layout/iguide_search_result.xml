@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@drawable/iguide_search_result_selector"
+    android:minHeight="50dp" >
+
+    <TextView
+        android:id="@+id/iguide_search_districtname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/search_result_title_color"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/iguide_search_arrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/search_fx" />
+
+    <TextView
+        android:id="@+id/iguide_search_province"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toStartOf="@id/iguide_search_arrow"
+        android:textColor="@color/search_result_title_color" />
+
+</RelativeLayout>

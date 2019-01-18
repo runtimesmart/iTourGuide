@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/iguide_map_placeholder"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp" />
+
+    <com.itg.ui.view.refreshlistview.RefreshListView
+        android:id="@+id/iguide_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/iguide_map_placeholder"
+        android:paddingBottom="50dp"
+        android:background="#ffffff"
+        android:divider="@null" >
+    </com.itg.ui.view.refreshlistview.RefreshListView >
+
+</RelativeLayout>

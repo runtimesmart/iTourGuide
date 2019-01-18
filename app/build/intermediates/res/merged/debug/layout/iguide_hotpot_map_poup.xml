@@ -1,0 +1,62 @@
+  <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/iguide_hotpot_pop"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/pop_bj"
+    android:paddingLeft="9dp"
+    android:paddingRight="9dp"
+    android:paddingTop="13dp"
+    android:paddingBottom="16dp"
+  >
+
+    <ImageView
+        android:id="@+id/iguide_hotpot_img_thumb"
+        android:layout_width="100dp"
+        android:layout_height="64dp"
+        android:background="@drawable/background_select"
+        android:contentDescription="@string/app_name" />
+
+    <TextView
+        android:id="@+id/iguide_hotpot_map_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxEms="6"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:textColor="@color/white" />
+
+
+    <RelativeLayout
+        android:id="@+id/iguide_voice_panel"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iguide_hotpot_img_thumb"
+        android:layout_marginTop="5dp"
+          android:paddingTop="4dp"
+          android:paddingBottom="4dp"
+        android:background="@drawable/iguide_map_play_bg" >
+
+        <ImageView
+            android:id="@+id/iguide_hotpot_voice_play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/earphone"
+            android:contentDescription="@string/app_name" />
+
+        <TextView
+            android:id="@+id/iguide_hotpot_voice_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/iguide_hotpot_voice_play"
+            android:textColor="@color/white" />
+       <TextView
+            android:id="@+id/iguide_hotpot_hid_objid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+        	android:visibility="gone"
+           />
+    </RelativeLayout>
+
+</RelativeLayout>

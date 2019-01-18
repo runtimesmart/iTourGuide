@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/raw/on.mp3",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/raw/on.mp3"
+    },
+    {
+        "merged": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/raw/off.mp3",
+        "source": "/Users/Yl/AndroidStudioProjects/iTourGuide/app/src/main/res/raw/off.mp3"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/raw/on.mp3",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/raw/on.mp3"
+    },
+    {
+        "merged": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/res/merged/debug/raw/off.mp3",
+        "source": "/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/res/raw/off.mp3"
+    }
+]

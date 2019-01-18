@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/listviewheader"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal" 
+    android:orientation="horizontal"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+           android:gravity="center"
+     >
+
+        <com.itg.ui.view.CircleProgressBar
+            android:id="@+id/listViewWaitCicle"
+            android:layout_width="25dp"
+            android:layout_height="25dp" 
+
+            />
+
+        <TextView
+            android:id="@+id/listViewRefreshTxtPre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/listViewWaitCicle"
+            android:text="@string/listview_release_refresh"
+            android:textColor="@color/pull_text_color"
+            android:layout_marginLeft="10dp"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/listViewRefreshDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/listViewRefreshTxtPre"
+            android:layout_marginTop="5dp"
+            android:textColor="@android:color/darker_gray" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+/Users/yangguang/AndroidStudioProjects/iTourGuide/app/build/intermediates/ndk/debug/obj/local/x86_64/objs/JNI_ImageBlur//Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/jni/com_itg_jni_ImageBlur.o: \
+ /Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/jni/com_itg_jni_ImageBlur.cpp \
+ /Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/jni/com_itg_jni_ImageBlur.h \
+ /Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/jni/ImageBlur.c
+
+/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/jni/com_itg_jni_ImageBlur.h:
+
+/Users/yangguang/AndroidStudioProjects/iTourGuide/app/src/main/jni/ImageBlur.c:

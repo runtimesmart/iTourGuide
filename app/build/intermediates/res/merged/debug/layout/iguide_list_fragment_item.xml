@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/iguide_list_selector"
+        android:padding="4dp" >
+
+        <ImageView
+            android:id="@+id/iguide_list_image"
+            android:layout_width="100dp"
+            android:layout_height="74dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/wait_xiao" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/iguide_list_image"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/iguide_list_districtname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/iguide_list_district_level"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="景区星级:"
+                    android:textColor="#fea600"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/iguide_list_linear_class"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_toRightOf="@id/iguide_list_district_level"
+                    android:text="AAAAA"
+                    android:textColor="#fea600"
+                    android:textSize="14sp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/iguide_list_linear_description"
+                    android:layout_width="170dp"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/gray"
+                    android:textSize="12sp" />
+
+                <!--
+                 <TextView
+                android:id="@+id/iguide_list_linear_mapwidget"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/iguide_list_linear_maplocation"
+                android:background="@drawable/list_jingqubj"
+                android:padding="3dp"
+                android:text="地图导游"
+                android:textColor="#ffffff" />
+                -->
+
+                <ImageView
+                    android:id="@+id/iguide_list_locate_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_toRightOf="@id/iguide_list_linear_description"
+                    android:src="@drawable/list_jingqubiao" />
+
+                <TextView
+                    android:id="@+id/iguide_list_linear_distance"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                         android:layout_alignParentBottom="true"
+                         android:layout_alignParentRight="true"
+                    android:layout_toRightOf="@id/iguide_list_locate_icon"
+                    android:textSize="13sp" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@color/iguide_list_bg" />
+
+</LinearLayout>

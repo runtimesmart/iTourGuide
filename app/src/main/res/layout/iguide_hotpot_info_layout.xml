@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/iguide_hotpot_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/iguide_hotpot_header"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" >
+
+        <ImageView
+            android:id="@+id/iguide_title_left_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:paddingBottom="13dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="13dp"
+            android:src="@drawable/menu_fankui_jt" />
+
+        <TextView
+            android:id="@+id/iguide_hotpot_header_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:background="@null"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="8dp"
+            android:layout_below="@id/iguide_hotpot_header_title"
+            android:background="@color/divider_line_header" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/iguide_gallary_panel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iguide_hotpot_header"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp" >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/iguide_hotpot_image_gallary"
+            android:layout_width="match_parent"
+            android:layout_height="225dp" />
+
+        <ImageView
+            android:id="@+id/iguide_hotpot_image_container"
+            android:layout_width="match_parent"
+            android:layout_height="225dp"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/iguide_gallary_tip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iguide_gallary_panel"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/iguide_image_tip_indicator"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/iguide_voice_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iguide_gallary_tip"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/iguide_voice_progress_panel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+			<FrameLayout 
+			    android:id="@+id/iguide_progress_panel"
+			     android:layout_width="260dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+			    >
+			     <SeekBar
+                android:id="@+id/iguide_voice_progress"
+                android:layout_width="260dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:max="100"
+                android:maxHeight="14dp"
+                android:minHeight="14dp"
+                android:progress="0"
+                android:progressDrawable="@drawable/iguide_voice_seekbar"
+                android:thumb="@drawable/iguide_control_dot_selector"
+                android:thumbOffset="1.6dp" 
+                android:visibility="gone"
+                />
+			<SeekBar 
+			    android:id="@+id/iguide_voice_progress_fake"
+			     android:layout_width="260dp"
+                android:layout_height="wrap_content"
+                android:max="100"
+                android:maxHeight="14dp"
+                android:minHeight="14dp"
+                android:progress="0"
+                android:progressDrawable="@drawable/iguide_voice_seekbar"
+                android:thumb="@drawable/iguide_control_dot_selector"
+                android:thumbOffset="1.6dp" 
+			    />
+			</FrameLayout>
+           
+            <TextView
+                android:id="@+id/iguide_voice_currenttime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@id/iguide_progress_panel"
+                android:text="00:00"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:id="@+id/iguide_voice_endtime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/iguide_progress_panel"
+                android:text="00:00"
+                android:textColor="@color/white" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/iguide_voice_control_panel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp" >
+
+            <ImageView
+                android:id="@+id/iguide_voice_speed_play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/iguide_control_selector"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/voice_begin" />
+
+            <ImageView
+                android:id="@+id/iguide_voice_speed_left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="40dp"
+                android:layout_toLeftOf="@id/iguide_voice_speed_play"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/iguide_control_left_selector" />
+
+            <ImageView
+                android:id="@+id/iguide_voice_speed_right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="40dp"
+                android:layout_toRightOf="@id/iguide_voice_speed_play"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/iguide_control_right_selector" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <!--  <com.itg.ui.view.CycleViewPager
+        android:id="@+id/iguide_hotpot_image_gallary"
+        android:layout_width="match_parent"
+android:layout_height="225dp"
+android:layout_centerInParent="true"
+android:layout_below="@id/iguide_hotpot_header_title"
+    ></com.itg.ui.view.CycleViewPager>-->
+    <!--
+<HorizontalScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+        android:layout_below="@id/iguide_hotpot_header_title"
+    >
+ <ViewFlipper
+        android:id="@+id/iguide_hotpot_image_gallary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        >
+    </ViewFlipper> 
+</HorizontalScrollView> -->
+
+</RelativeLayout>
